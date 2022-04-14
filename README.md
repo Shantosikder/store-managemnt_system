@@ -25,6 +25,7 @@ Less paper work
 Human and manual work reduced
 Automated reporting
 
-Email:shanto@gmail.com
-Password:shanto
+Login ::
+Email: shanto@gmail.com
+Password: shanto
 
