@@ -25,6 +25,8 @@ Less paper work
 Human and manual work reduced
 Automated reporting
 
+Technologies: Bootstrap,Css,JavaScript,Jquery,php,mysql
+
 Login ::
 Email: shanto@gmail.com
 Password: shanto
